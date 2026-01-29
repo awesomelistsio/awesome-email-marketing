@@ -53,6 +53,7 @@
 - **[Moosend](https://moosend.com/)** - A platform for automation and personalization in email campaigns.
 - **[Mailgun](https://www.mailgun.com/)** - An email API service with automation capabilities.
 - **[Omnisend](https://www.omnisend.com/)** - Automation tools designed for e-commerce marketing.
+- **[Wraps](https://wraps.dev)** - Email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.
 
 ## Analytics and Tracking
 
@@ -85,6 +86,7 @@
 - **[Postal](https://github.com/postalhq/postal)** - An open-source mail server for large-scale email campaigns.
 - **[Mailtrain](https://mailtrain.org/)** - A self-hosted newsletter and email marketing platform.
 - **[Cuttlefish](https://github.com/mlandauer/cuttlefish)** - A self-hosted email service for transactional emails.
+- **[Wraps CLI](https://wraps.dev/cli)** - Deploy production-ready AWS SES infrastructure in 2 minutes. One command, no console clicking.
 
 ## Educational Resources
 
