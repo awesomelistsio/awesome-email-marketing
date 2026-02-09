@@ -29,6 +29,7 @@
 - **[What is Email Marketing?](https://en.wikipedia.org/wiki/Email_marketing)** - An overview of email marketing and its significance.
 - **[HubSpot Email Marketing Blog](https://blog.hubspot.com/marketing/email-marketing)** - Articles and tips for mastering email marketing.
 - **[Email Marketing Benchmarks](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/)** - Industry benchmarks for email performance.
+- **[Cobalt Studio Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/)** - Free no-signup tool to generate short cold outreach emails + subject lines.
 
 ## Email Marketing Platforms
 
